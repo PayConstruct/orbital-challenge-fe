@@ -28,5 +28,7 @@ Build a "Accounts Page" that show "corporate accounts" and "custody vaults".
 * Both Buttons "+ New Account" and "+ New Transaction" must be present, but they have no functionality.
 
 ## Submitting your solution
-Submit a Github PR with your name as title.
-You can add comment if you wish to do so
+Your code should run locally, you can deploy it as well.
+
+**Create a Git Hub repository with your solution and share it with us when you finish.**
+
