@@ -18,7 +18,7 @@ You can decide to:
 
 ## The Challenge:
 Build a "Accounts Page" that show "corporate accounts" and "custody vaults".
-The following link ---------- leads to a figma design mockup that you must follow to build the page.
+[Figma Design Mockup](https://www.figma.com/file/CbM9dFGtFvyRAgbPD6thmf/FE-interview-challenges?node-id=0%3A1) has the page structure you need to follow to build the application.
 
 * Both "Corporate accounts" and "Custody vaults" load accounts with `currency`, `balance`, `accountName`, `accountType`. Use the same API to load accounts for both components, you can mock the API.
 * You must use the assets provided to display the currency icon.
